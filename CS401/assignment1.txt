@@ -1,0 +1,24 @@
+import java.util.*;
+public class assignment1
+{
+	public static void main (String [] args)
+	{
+	
+System.out.print("Welcome to Pies, Pies, and Pi's! Do you have our special Pie card? ");
+String yesono = inScan.nextLine();
+if (inScan.hasNextInt())
+		{
+			yesono = "yes";
+			System.out.println("Please enter the card number");
+		}
+		else if 
+		{
+			yesono = "no");
+			System.out.println("Would you like the special card, you will get a disscount!");
+		}
+		else
+		{ System.out.println("Please enter yes or no");
+
+		}
+		}
+	}
